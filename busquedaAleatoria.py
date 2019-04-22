@@ -1,5 +1,4 @@
 
-#Creado por Jesus Andres Sanchez Quintero
 #https://share.cocalc.com/share/4bfb9fc2-c03f-4f81-b8f3-c809763900a5/Busqueda%20Aleatoria.ipynb?viewer=share
 
 #Importando librerias
